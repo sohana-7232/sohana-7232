@@ -1,15 +1,16 @@
-## Hi there 👋
+### Hello there 👋
 
+#### Environmental Researcher by day ☼ and Open Source Contributor by night ☾
 
-**sohana-7232/sohana-7232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Environmental Researcher at [IWFM, BUET]();<br>
+Based in Dhaka, Bangladesh;<br>
 
-Here are some ideas to get you started:
+- ⚙️ I use daily: `.js, .ts, .html, .css`
+- 🌍 I'm mostly active within the **Developer Community**
+- 💬 `ping` me about **⭐ Environmental Solutions ⭐ Geospatial Research Projects ⭐ Sustainable Practices**
+- 📫 How to reach me: [info.sohanakhatun7232@gmail.com](mailto:info.sohanakhatun7232@gmail.com)
+- ⚡ Fun fact: I'm diving into the spatial analysis of wetlands in Bangladesh, focusing on their biodiversity and conservation efforts—let's talk about the ecosystems in your area too!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+### 💖 Support
