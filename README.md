@@ -1,16 +1,28 @@
-### Hello there 👋
+# MST SOHANA KHATUN
 
-#### Environmental Researcher by day ☼ and Open Source Contributor by night ☾
+**Environmental Researcher** · 📍 Dhaka, Bangladesh · 🏢 IWFM, BUET
 
-Environmental Researcher at [IWFM, BUET]();<br>
-Based in Dhaka, Bangladesh;<br>
+![Profile Views](https://komarev.com/ghpvc/?username=sohana-7232&color=brightgreen&style=flat-square&label=Profile+Views)
 
-- ⚙️ I use daily: GIS, Remote Sensing Software
-- 🌍 I'm mostly active within the **Envitonmental Research Community**
-- 💬 `ping` me about **⭐ Environmental Solutions ⭐ Geospatial Research Projects ⭐ Sustainable Practices**
-- 📫 How to reach me: [info.sohanakhatun7232@gmail.com](mailto:info.sohanakhatun7232@gmail.com)
-- ⚡ Fun fact: I'm diving into the spatial analysis of wetlands in Bangladesh, focusing on their biodiversity and conservation efforts—let's talk about the ecosystems in your area too!
+> I'm an Environmental Researcher passionate about harnessing the power of GIS and Remote Sensing to forge innovative paths toward a sustainable future. With a solid foundation in Geography & Environment, I thrive on tackling complex environmental challenges and driving impactful solutions.
 
----
+## 🧠 Core Skills
 
-### 💖 Support
+<img src="https://img.shields.io/badge/-ArcGIS-333?style=flat-square&logo=arcgis&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Google%20Earth%20Engine-333?style=flat-square&logo=googleearthengine&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-R-333?style=flat-square&logo=r&logoColor=white"/>
+
+## 📊 At a Glance
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohana-7232&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+
+</div>
+
+## 📬 Get in Touch
+
+I'm open to new opportunities. Reach me here:
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.sohanakhatun7232@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/https://x.com/khat232_sohana) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sohana-7232)
