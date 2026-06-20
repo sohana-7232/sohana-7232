@@ -6,6 +6,21 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sohana-7232&color=brightgreen&style=flat-square&label=Profile+Views)
 
+🔬 Current Research
+
+Master’s Thesis:
+📍 Land Use Land Cover (LULC) Change in and Around Arial Beel using Remote Sensing and GIS
+
+I analyze multi-temporal satellite imagery to detect land transformation patterns, wetland loss, and environmental impacts using GIS-based spatial analysis.
+
+🛰️ Research Interests
+Remote Sensing & GIS
+Land Use Land Cover (LULC) Change
+Wetland Ecosystem Monitoring
+Climate & Environmental Change
+Spatial Data Analysis
+Sustainable Land Management
+
 > I'm an Environmental Researcher passionate about harnessing the power of GIS and Remote Sensing to forge innovative paths toward a sustainable future. With a solid foundation in Geography & Environment, I thrive on tackling complex environmental challenges and driving impactful solutions.
 - 🔭 I’m currently working on Wetland Research Project (Bangladesh), focusing on GIS & Remote Sensing applications for environmental monitoring. 
 - 🌱 I’m currently learning Machine Learning, Remote Sensing (GIS applications), and Climate Data Analysis. 
@@ -14,7 +29,7 @@
 - 💬 Ask me about Wetlands of Bangladesh, GIS & Remote Sensing, hydrology, climate variability, and environmental research. 
 - 📫 How to reach me: Email, LinkedIn or Twitter 
 - 😄 Pronouns: She/Her 
-- ⚡ Fun fact: I work on wetland mapping and love combining space technology with environmental problem-solving. 
+- ⚡ Fun fact: I use satellite images to understand how Earth is changing over time 🌍📡
 ## 🧠 Core Skills
 
 <img src="https://img.shields.io/badge/-ArcGIS-333?style=flat-square&logo=arcgis&logoColor=white"/>
