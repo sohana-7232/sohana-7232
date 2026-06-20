@@ -48,8 +48,7 @@ Sustainable Land Management
 I'm open to new opportunities. Reach me here:
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.sohanakhatun7232@gmail.com)
-
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sohana-7232)
-
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0000--0000--0000-A6CE39?style=for-the-badge&logo=orcid)](https://orcid.org/0000-0000-0000-0000)
 [![Twitter](https://img.shields.io/badge/Twitter(X)-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/khat232_sohana)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mst%20Sohana%20Khatun-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mstsohanakhatun)
